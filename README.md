@@ -102,5 +102,5 @@ patient-segmentation/
 ## 👤 Author
 
 **Muhammad Zubairu**  
-Machine Learning · Healthcare Analytics  
-[GitHub](https://github.com/Kaida4318) · [LinkedIn](your-linkedin)
+Data Science Student - Machine Learning Engineer 
+[GitHub](https://github.com/Kaida4318) · [LinkedIn](https://linkedin.com/in/muhammad-zubairu-rabiu)
