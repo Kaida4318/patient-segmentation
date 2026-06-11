@@ -96,6 +96,12 @@ patient-segmentation/
 ├── requirements.txt     # Dependencies
 └── README.md            # This file
 ```
+## ⚠️ Limitations
+- Dataset consists exclusively of **adult females** from the Pima Indian population.
+  The model is not generalizable to male patients or other ethnic groups.
+- Insulin and Skin Thickness had ~49% and ~30% missing values respectively,
+  imputed with medians. A more robust approach would use multiple imputation.
+- 768 patients is a relatively small sample for clinical deployment.
 
 ---
 
